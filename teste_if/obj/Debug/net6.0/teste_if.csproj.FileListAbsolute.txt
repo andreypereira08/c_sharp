@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\estudos\c#\teste_if\bin\Debug\net6.0\teste_if.exe
+C:\Users\andre\Documents\estudos\c#\teste_if\bin\Debug\net6.0\teste_if.deps.json
+C:\Users\andre\Documents\estudos\c#\teste_if\bin\Debug\net6.0\teste_if.runtimeconfig.json
+C:\Users\andre\Documents\estudos\c#\teste_if\bin\Debug\net6.0\teste_if.dll
+C:\Users\andre\Documents\estudos\c#\teste_if\bin\Debug\net6.0\teste_if.pdb
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.AssemblyInfo.cs
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.dll
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\refint\teste_if.dll
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.pdb
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\teste_if.genruntimeconfig.cache
+C:\Users\andre\Documents\estudos\c#\teste_if\obj\Debug\net6.0\ref\teste_if.dll

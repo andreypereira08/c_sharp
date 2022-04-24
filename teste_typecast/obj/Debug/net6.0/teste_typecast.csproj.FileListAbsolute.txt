@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\estudos\c#\teste_typecast\bin\Debug\net6.0\teste_typecast.exe
+C:\Users\andre\Documents\estudos\c#\teste_typecast\bin\Debug\net6.0\teste_typecast.deps.json
+C:\Users\andre\Documents\estudos\c#\teste_typecast\bin\Debug\net6.0\teste_typecast.runtimeconfig.json
+C:\Users\andre\Documents\estudos\c#\teste_typecast\bin\Debug\net6.0\teste_typecast.dll
+C:\Users\andre\Documents\estudos\c#\teste_typecast\bin\Debug\net6.0\teste_typecast.pdb
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.AssemblyInfo.cs
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.dll
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\refint\teste_typecast.dll
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.pdb
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\teste_typecast.genruntimeconfig.cache
+C:\Users\andre\Documents\estudos\c#\teste_typecast\obj\Debug\net6.0\ref\teste_typecast.dll

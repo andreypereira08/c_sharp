@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.AssemblyInfo.cs
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c#\teste_switch\bin\Debug\net6.0\teste_switch.exe
+C:\Users\andre\Documents\estudos\c#\teste_switch\bin\Debug\net6.0\teste_switch.deps.json
+C:\Users\andre\Documents\estudos\c#\teste_switch\bin\Debug\net6.0\teste_switch.runtimeconfig.json
+C:\Users\andre\Documents\estudos\c#\teste_switch\bin\Debug\net6.0\teste_switch.dll
+C:\Users\andre\Documents\estudos\c#\teste_switch\bin\Debug\net6.0\teste_switch.pdb
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.dll
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\refint\teste_switch.dll
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.pdb
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\teste_switch.genruntimeconfig.cache
+C:\Users\andre\Documents\estudos\c#\teste_switch\obj\Debug\net6.0\ref\teste_switch.dll

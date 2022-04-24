@@ -1,0 +1,16 @@
+C:\Users\andre\Pictures\escola\cadastro_funcionario\bin\Debug\cadastro_funcionario.exe.config
+C:\Users\andre\Pictures\escola\cadastro_funcionario\bin\Debug\cadastro_funcionario.exe
+C:\Users\andre\Pictures\escola\cadastro_funcionario\bin\Debug\cadastro_funcionario.pdb
+C:\Users\andre\Pictures\escola\cadastro_funcionario\obj\Debug\cadastro_produto.csproj.AssemblyReference.cache
+C:\Users\andre\Pictures\escola\cadastro_funcionario\obj\Debug\cadastro_produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Pictures\escola\cadastro_funcionario\obj\Debug\cadastro_produto.csproj.CoreCompileInputs.cache
+C:\Users\andre\Pictures\escola\cadastro_funcionario\obj\Debug\cadastro_funcionario.exe
+C:\Users\andre\Pictures\escola\cadastro_funcionario\obj\Debug\cadastro_funcionario.pdb
+C:\Users\andre\Pictures\escola\cadastro_produto\bin\Debug\cadastro_funcionario.exe.config
+C:\Users\andre\Pictures\escola\cadastro_produto\bin\Debug\cadastro_funcionario.exe
+C:\Users\andre\Pictures\escola\cadastro_produto\bin\Debug\cadastro_funcionario.pdb
+C:\Users\andre\Pictures\escola\cadastro_produto\obj\Debug\cadastro_produto.csproj.AssemblyReference.cache
+C:\Users\andre\Pictures\escola\cadastro_produto\obj\Debug\cadastro_produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Pictures\escola\cadastro_produto\obj\Debug\cadastro_produto.csproj.CoreCompileInputs.cache
+C:\Users\andre\Pictures\escola\cadastro_produto\obj\Debug\cadastro_funcionario.exe
+C:\Users\andre\Pictures\escola\cadastro_produto\obj\Debug\cadastro_funcionario.pdb

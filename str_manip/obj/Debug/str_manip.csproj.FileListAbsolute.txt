@@ -1,0 +1,8 @@
+C:\Users\andre\Pictures\escola\str_manip\bin\Debug\str_manip.exe.config
+C:\Users\andre\Pictures\escola\str_manip\bin\Debug\str_manip.exe
+C:\Users\andre\Pictures\escola\str_manip\bin\Debug\str_manip.pdb
+C:\Users\andre\Pictures\escola\str_manip\obj\Debug\str_manip.csproj.AssemblyReference.cache
+C:\Users\andre\Pictures\escola\str_manip\obj\Debug\str_manip.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Pictures\escola\str_manip\obj\Debug\str_manip.csproj.CoreCompileInputs.cache
+C:\Users\andre\Pictures\escola\str_manip\obj\Debug\str_manip.exe
+C:\Users\andre\Pictures\escola\str_manip\obj\Debug\str_manip.pdb

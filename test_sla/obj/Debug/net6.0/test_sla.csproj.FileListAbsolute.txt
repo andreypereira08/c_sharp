@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.AssemblyInfo.cs
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c#\test_sla\bin\Debug\net6.0\test_sla.exe
+C:\Users\andre\Documents\estudos\c#\test_sla\bin\Debug\net6.0\test_sla.deps.json
+C:\Users\andre\Documents\estudos\c#\test_sla\bin\Debug\net6.0\test_sla.runtimeconfig.json
+C:\Users\andre\Documents\estudos\c#\test_sla\bin\Debug\net6.0\test_sla.dll
+C:\Users\andre\Documents\estudos\c#\test_sla\bin\Debug\net6.0\test_sla.pdb
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.dll
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\refint\test_sla.dll
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.pdb
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\test_sla.genruntimeconfig.cache
+C:\Users\andre\Documents\estudos\c#\test_sla\obj\Debug\net6.0\ref\test_sla.dll
