@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\bin\Debug\calculadora2.exe.config
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\bin\Debug\calculadora2.exe
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\bin\Debug\calculadora2.pdb
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.Form1.resources
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.Properties.Resources.resources
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.csproj.GenerateResource.cache
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.exe
+C:\Users\andre\Documents\estudos\c_sharp\calculadora2\obj\Debug\calculadora2.pdb

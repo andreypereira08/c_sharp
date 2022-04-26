@@ -9,3 +9,14 @@ C:\Users\andre\Pictures\escola\Banco2\obj\Debug\Banco2.csproj.GenerateResource.c
 C:\Users\andre\Pictures\escola\Banco2\obj\Debug\Banco2.csproj.CoreCompileInputs.cache
 C:\Users\andre\Pictures\escola\Banco2\obj\Debug\Banco2.exe
 C:\Users\andre\Pictures\escola\Banco2\obj\Debug\Banco2.pdb
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\bin\Debug\Banco2.exe.config
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\bin\Debug\Banco2.exe
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\bin\Debug\Banco2.pdb
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.Form1.resources
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.Properties.Resources.resources
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.csproj.GenerateResource.cache
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.exe
+C:\Users\andre\Documents\estudos\c_sharp\Banco2\obj\Debug\Banco2.pdb
