@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\bin\Debug\urna_eletronica.exe.config
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\bin\Debug\urna_eletronica.exe
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\bin\Debug\urna_eletronica.pdb
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.Form1.resources
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.Properties.Resources.resources
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.csproj.GenerateResource.cache
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.exe
+C:\Users\andre\Documents\estudos\c_sharp\urna_eletronica\obj\Debug\urna_eletronica.pdb
