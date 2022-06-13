@@ -1,0 +1,16 @@
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\16demaio.csprojAssemblyReference.cache
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\_16demaio.exercicio_1.resources
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\_16demaio.Form1.resources
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\_16demaio.Properties.Resources.resources
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\16demaio.csproj.GenerateResource.cache
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\16demaio.csproj.CoreCompileInputs.cache
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\bin\Debug\16demaio.exe.config
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\bin\Debug\16demaio.exe
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\bin\Debug\16demaio.pdb
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\16demaio.exe
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\16demaio.pdb
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\_16demaio.exercicio2.resources
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\_16demaio.exercicio3.resources
+C:\Users\alunoct.LABTJ2\source\repos\16demaio\16demaio\obj\Debug\_16demaio.exercicio4.resources
+C:\Users\andre\Downloads\16demaio\16demaio\obj\Debug\16demaio.exe
+C:\Users\andre\Downloads\16demaio\16demaio\obj\Debug\16demaio.pdb

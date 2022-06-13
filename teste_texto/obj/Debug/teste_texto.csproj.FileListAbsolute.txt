@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\bin\Debug\teste_texto.exe.config
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\bin\Debug\teste_texto.exe
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\bin\Debug\teste_texto.pdb
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.Form1.resources
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.Properties.Resources.resources
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.csproj.GenerateResource.cache
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.exe
+C:\Users\andre\Documents\estudos\c_sharp\teste_texto\obj\Debug\teste_texto.pdb
